@@ -7,7 +7,7 @@ function mode() {
     if(html.classList.contains('light')) {
         img.setAttribute("src", "./imagens/avatar-light.png")
     } else {
-        img.setAttribute("src", "./imagens/avatar.png")
+        img.setAttribute("src", "./imagens/Avatar.png")
     }
     
 
